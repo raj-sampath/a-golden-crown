@@ -44,3 +44,9 @@ Output: King Shan
 
 Allies of King Shan?
 Output: Air, Land, Ice, Fire
+
+## Running the Game
+1. Clone the Code
+2. Open Terminal/Command Prompt and navigate to the the code folder.
+3. npm install
+4. node game.js
