@@ -1,0 +1,15 @@
+{
+  "name": "a-golden-crown",
+  "version": "1.0.0",
+  "description": "Geek Trust Problem 1",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shyam Raj Sampath",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "prompt": "^1.0.0"
+  }
+}
